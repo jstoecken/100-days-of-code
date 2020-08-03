@@ -28,10 +28,11 @@ CSS was a lot of info but another nice fresher course. Think I'm moving on to ne
 ### Day 3: August 2, Sunday
 
 **Today's Progress**: 
-1. 
+1. 56% complte with Applied Visual Deisgn.
+2. Did a bit of work on color theory today. Not something I have thought much about since HS art class.
 
 **Thoughts** 
-
+Didn't spend a lot of time otday. Got in a quick 25ish minutes before lights-out time. 
 
 **Link(s) to work**
 1. 
