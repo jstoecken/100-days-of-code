@@ -36,4 +36,19 @@ CSS was a lot of info but another nice fresher course. Think I'm moving on to ne
 Didn't spend a lot of time otday. Got in a quick 25ish minutes before lights-out time. 
 
 **Link(s) to work**
-1. 
+1. N/A
+
+
+
+### Day 4: August 3, Monday
+
+**Today's Progress**: 
+1. 100% complete with Applied Visual Design lessons.
+2. 23% compelte with Applied Accessibility lessons.
+3. Each page should only have one H1 tag so make it easier for search engines to understand the purpose. Did not know that previously.
+
+**Thoughts** 
+
+
+**Link(s) to work**
+1. N/A
