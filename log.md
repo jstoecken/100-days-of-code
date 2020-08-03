@@ -30,6 +30,7 @@ CSS was a lot of info but another nice fresher course. Think I'm moving on to ne
 **Today's Progress**: 
 1. 56% complte with Applied Visual Deisgn.
 2. Did a bit of work on color theory today. Not something I have thought much about since HS art class.
+3. Checked out the code on Derek Sivers's website because I know he designed it himself. I love this type of layout. This is why I have wanted to learn web development, to make simple website such as this. 
 
 **Thoughts** 
 Didn't spend a lot of time otday. Got in a quick 25ish minutes before lights-out time. 
