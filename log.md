@@ -52,3 +52,19 @@ Didn't spend a lot of time otday. Got in a quick 25ish minutes before lights-out
 
 **Link(s) to work**
 1. N/A
+
+
+
+### Day 5: August 4, Tuesday
+
+**Today's Progress**: 
+1. 100% complete with Applied Accessibility lessons.
+2. 100% complete with Responsive Web Design Principles lessons. 
+3. 12% compelte with CSS Flexbox lessons. 
+
+
+**Thoughts** 
+I need to practice touch-typing so I can code more efficiently. it's hard to look at the keyboard while typing and then look up at the screen to see the typos I made.
+
+**Link(s) to work**
+1. N/A
