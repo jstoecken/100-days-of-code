@@ -68,3 +68,19 @@ I need to practice touch-typing so I can code more efficiently. it's hard to loo
 
 **Link(s) to work**
 1. N/A
+
+
+
+### Day 6: August 5, Wednesday
+
+**Today's Progress**: 
+1. 100% compelte with CSS Flexbox lessons. 
+2. 100 complete with CSS Grid lessons. 
+3. Ready to move on to the 5 Responsive Web design Projects! 
+
+
+**Thoughts** 
+Did not stick to my schedule this morning so my routine was out of whack, but I did manage to get in more than 1 hour of code before work. 
+
+**Link(s) to work**
+1. N/A
