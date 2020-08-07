@@ -84,3 +84,18 @@ Did not stick to my schedule this morning so my routine was out of whack, but I 
 
 **Link(s) to work**
 1. N/A
+
+
+### Day 7: August 6, Thursday
+
+**Today's Progress**: 
+1. None 
+
+
+**Thoughts** 
+Didn't do programming this morning. Was in a witing mood so I wrote a blog post. Tried to look at the wed design projects on FCC but the directiosn were so vague I dind't know where to start. Started to use Head First programming but was too tired to get into it. Will try again tomorrow. 
+
+
+**Link(s) to work**
+1. N/A
+
